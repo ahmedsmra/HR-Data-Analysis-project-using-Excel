@@ -1,3 +1,3 @@
 # Employee-Data-Analysis-project-using-Excel
 
-![HR-analysis][HR.png]
+![HR-analysis](HR.png)
