@@ -24,3 +24,6 @@ This project is focused on analyzing HR data to uncover valuable insights relate
 - Microsoft Excel
 - Power Query
 - Pivot Tables & Charts
+
+## check full project
+https://drive.google.com/file/d/1W2fgLu9h0WzpL1LrY3eS3TLj2Lrmvi4-/view?usp=sharing
